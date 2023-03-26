@@ -1,0 +1,6 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "onion-tools": "^0.0.7"
+  }
+}
